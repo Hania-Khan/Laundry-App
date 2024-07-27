@@ -16,8 +16,9 @@ The LogIn Screen is where users enter their credentials to access their accounts
 - **User Authentication**: Secure login with Firebase Authentication.
 - **Password Recovery**: Options for recovering forgotten passwords.
 - **Account Creation**: Link to register a new account.
-![LogIn Screen 1](assets/10.png)
-![LogIn Screen 2](assets/9.png)
+
+![LogIn Screen 1](assets/9.png)
+![LogIn Screen 2](assets/10.png)
 ---
 
 ## 👤 Profile Screen
@@ -26,6 +27,7 @@ The Profile Screen displays user-specific information and account settings. User
 - **Personal Details**: View and edit user information.
 - **Address Management**: Add or update address information.
 - **Order History**: Track past laundry orders.
+
 ![Profile Screen](assets/13.png)
 ---
 
@@ -69,4 +71,5 @@ The Order Confirmation Screen provides a summary of the user's order after it ha
 - **Order Summary**: Detailed confirmation of the placed order.
 - **Order Number**: Unique identifier for tracking the order.
 - **Estimated Time**: Information on pickup or delivery timing.
+
 ![Order Confirmation Screen](assets/14.png)
